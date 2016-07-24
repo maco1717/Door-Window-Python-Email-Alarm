@@ -30,7 +30,8 @@ TODO:
 -----------------------------------------------------------
  - Create Documentation
 	 - Document the Code
-	 - README.md/HOW TO
+	 - README.md
+	 - Wiki
  - Android client app
  - Event Timeline
  - Add Sensor End-Points
