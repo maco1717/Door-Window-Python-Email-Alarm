@@ -26,3 +26,13 @@ Documentation
  **StackEdit**[^stackedit].  **Utils**  <i class="icon-cog"></i> **Settings**
 
 -----------------------------------------------------------
+TODO:
+-----------------------------------------------------------
+ - Create Documentation
+	 - Document the Code
+	 - README.md/HOW TO
+ - Android client app
+ - Event Timeline
+ - Add Sensor End-Points
+	 - Particle Core (Spark Core)
+	 - Arduino MRK1000
