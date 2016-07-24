@@ -9,7 +9,8 @@ Application Stack:
 ![SmartDoor Stack](https://lh3.googleusercontent.com/-4e-6XIQL06E/V5QkI47FaqI/AAAAAAAAN_w/Ubrj8HrCdQsWOfeD8LDXX1mkA8e3PltogCLcB/s0/stack.png "SmartDoor stack")
 
 
-----------
+-----------------------------------------------------------
+
 
 
 
@@ -24,4 +25,4 @@ Documentation
 
  **StackEdit**[^stackedit].  **Utils**  <i class="icon-cog"></i> **Settings**
 
-----------
+-----------------------------------------------------------
