@@ -9,7 +9,7 @@ The process to detect and handle the interruption and send the emails notificati
 
 The front-end is uses boostrap javascrip jquery, one the back end we use php with nginx and mysql but it can run on any other web server type stack on-device, on-premise or on the cloud.
 
-Extra functionality is the posibility to create a timeline with the times when where door was open and close and a programable timer that notifies if the door has been open for more than some choosen time.
+Extra functionality is the posibility to create a timeline with the times when the door was open and close and a programable timer that notifies if the door has been open for more than some choosen time.
 
 Application Stack:
 ![smartDoor Stack](https://lh3.googleusercontent.com/-eS_gmuHFmh0/V5cMVSXL_VI/AAAAAAAAOBA/0yW3_tJ7MmUzcG0SJDcIWlD0T-9Ha1e8QCLcB/s0/stack.png "SmartDoor Stack")
