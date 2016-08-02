@@ -24,6 +24,21 @@ Getting started
 -----------------------------------------------------------
 Dependencies
 -----------------------------------------------------------
+- Web server
+	- mysql-server
+	- nginx
+	- php5-fpm
+	- php5-mysql
+	- mysql-client
+	- php5-cli
+	- php-apc
+	- phpmyadmin
+- Python
+	- python-pip
+	- pyinotify
+- Websocket
+	- websocketd
+
 Install
 -----------------------------------------------------------
 
