@@ -7,7 +7,7 @@ This is application is a full stack, that reads an input from the RPI GPIO as a 
 
 The process to detect and handle the interruption and send the emails notification of the event is a python script, that comunicates via a bash websocket server using websocketd, the websocket application is used to create a manager front-end WebUI to enable/disable the email alerts.
 
-The front-end is uses boostrap javascrip jquery, one the back end we use php with nginx and mysql but it can run on any other web server type stack on-device, on-premise or on the cloud.
+The front-end is done using boostrap javascrip jquery, one the back-end we use php with nginx and mysql but it can run on any other web server type stack on-device, on-premise or on the cloud.
 
 Extra functionality is the posibility to create a timeline with the times when the door was open and close and a programable timer that notifies if the door has been open for more than some choosen time.
 
