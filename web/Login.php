@@ -1,8 +1,6 @@
 <?php
 session_start();
 
-
-
 include_once 'Dbconnect.php';
 
 //check if form is submitted
