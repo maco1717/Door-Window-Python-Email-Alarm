@@ -12,16 +12,12 @@
 
 while true
 do
-  var=$(</home/pi/websocketd/var)
+  var=$(</home/pi/var/var)
   echo "$var"
   read -t 0.01 input
   input=${input:-$var}
   if [ "$input" != "$var" ]
   then
-    echo "$input" > "/home/pi/websocketd/var"
-    #echo "$(date) Email alert service changed" $input >> "/home/pi/websocketd/socket.log"
+    echo "$input" > "/home/pi/var/var"
   fi
-  #echo $input
-	#echo "$input" > "/home/pi/websocketd/var"
-  #sleep 1
 done
