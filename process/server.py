@@ -146,8 +146,8 @@ def log_event(door):
             json.dump(dataout, outfile, sort_keys=False, indent=4)
 
 def sendmail():
-    fromaddr = "maco1717@gmail.com"
-    toaddr = "maco1717@gmail.com"
+    fromaddr = "email"
+    toaddr = "email"
     msg = MIMEMultipart()
     msg['From'] = fromaddr
     msg['To'] = toaddr
@@ -158,7 +158,7 @@ def sendmail():
 
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login("maco1717", "S4fety!st")
+    server.login("username", "password")
     text = msg.as_string()
     server.sendmail(fromaddr, toaddr, text)
     server.quit()
