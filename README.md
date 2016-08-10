@@ -54,6 +54,8 @@ TODO:
 	 - Wiki
  - Android client app
  - Event Timeline
+ - Create a websocket script using python
+ 	 - Websocket with a JSON file
  - Add Sensor End-Points
 	 - Particle Core (Spark Core)
 	 - Arduino MRK1000
